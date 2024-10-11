@@ -1,0 +1,24 @@
+.btn {
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  &__primary {
+    background-color: var(--btn-primary-color);
+    color: var(--text-color);
+
+    &:hover {
+      background-color: var(--btn-primary-color-hover);
+    }
+  }
+
+  &__secondary {
+    background-color: var(--btn-secondary-color);
+    color: var(--text-color);
+
+    &:hover {
+      background-color: var(--btn-secondary-color-hover);
+    }
+  }
+}

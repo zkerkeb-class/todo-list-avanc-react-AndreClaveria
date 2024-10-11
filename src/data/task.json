@@ -1,0 +1,5 @@
+[
+  {"TODO": "Task 1", "status": "Complete"},
+  {"TODO": "Task 2", "status": "Incomplete"},
+  {"TODO": "Task 3", "status": "In Progress"}
+]
