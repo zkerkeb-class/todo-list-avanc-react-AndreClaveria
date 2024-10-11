@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-list-avanc-react-AndreClaveria/static/css/main.f4ddea44.css",
+    "main.js": "/todo-list-avanc-react-AndreClaveria/static/js/main.634bfecc.js",
+    "static/js/453.81f383cb.chunk.js": "/todo-list-avanc-react-AndreClaveria/static/js/453.81f383cb.chunk.js",
+    "index.html": "/todo-list-avanc-react-AndreClaveria/index.html",
+    "main.f4ddea44.css.map": "/todo-list-avanc-react-AndreClaveria/static/css/main.f4ddea44.css.map",
+    "main.634bfecc.js.map": "/todo-list-avanc-react-AndreClaveria/static/js/main.634bfecc.js.map",
+    "453.81f383cb.chunk.js.map": "/todo-list-avanc-react-AndreClaveria/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ddea44.css",
+    "static/js/main.634bfecc.js"
+  ]
+}
